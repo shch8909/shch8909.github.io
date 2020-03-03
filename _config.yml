@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Aim to be a Great DataScientist"
+  "Gratitude in life"
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             test
+  - title:             테스트
     url:               /hydejack/
-  - title:             Hyde
+  - title:             Colab
     url:               /hyde/
-  - title:             Documentation
+  - title:             Kaggle
     url:               /docs/
   - title:             About
     url:               /about/
