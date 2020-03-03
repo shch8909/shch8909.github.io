@@ -18,7 +18,7 @@ baseurl:               ''
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
-# The title of your blog. Used in the sidebar and the browser tab.
+# The ` of your blog. Used in the sidebar and the browser tab.
 title:                 Gratitude
 
 # A short description (~150 chars) of the page used for the meta description tag.
@@ -41,14 +41,14 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <HyeongChan> <Shin>
+  email:               <shch8909@korea.ac.kr>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             test
     url:               /hydejack/
   - title:             Hyde
     url:               /hyde/
